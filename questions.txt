@@ -1,0 +1,14 @@
+What is Voltage?
+Energy, stored in the form of an electric charge capable of provoking electrons to flow through a conductor.
+
+What is Resistance?
+Opposition to electric current (dependent on the material, cross-sectional area, and temperature).
+
+Is a short circuit an example of a closed or open circuit?
+Closed.
+
+How can you determine if a cricuit is closed or open?
+A closed circuit allows current to flow, but an open circuit does not.
+
+Did you set up your computer to use the Feather?
+Yes! (Is this a trick question? Haha)
